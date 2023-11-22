@@ -1,0 +1,4 @@
+package compressor
+
+func init() {
+}
